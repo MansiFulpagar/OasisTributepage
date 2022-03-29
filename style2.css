@@ -1,0 +1,28 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	background-color: #FAEBD7;
+}
+h1
+{
+	text-align: center;
+    background-color: #ffa500;
+    padding: 20px;
+}
+h2
+{
+	text-align: center;
+	color: #ffa500;
+}
+.main
+{
+	justify-content: center;
+	text-align: center;
+}
+
